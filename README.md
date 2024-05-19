@@ -1,20 +1,23 @@
 # weatherapp
+A Flutter-based weather application that displays weather forecasts and integrates Google Maps to show temperature and precipitation layers.
 
-A new Flutter project.
 
+## Features
+
+- Displays the current weather forecast for the user's location. 
+- Integrates Google Maps to display temperature and precipitation layers.
+- Handles location permissions and errors gracefully.
 
 https://github.com/princetomar/weather_app/assets/71916212/9ae18dc1-af09-4f5a-8017-2dbebe9191c3
 
+### Installation
 
-## Getting Started
+1. **Clone the repository:**
 
-This project is a starting point for a Flutter application.
+   ```sh
+   git clone https://github.com/yourusername/weather-app.git
+   cd weather-app
+   flutter pub get
+   flutter run
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
